@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator>
+  <link href="http://localhost:4000/marcia/tag/fashion/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/marcia/" rel="alternate" type="text/html" />
+  <updated>2018-10-03T10:39:04+05:00</updated>
+  <id>http://localhost:4000/marcia/tag/fashion/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Marcia | </title>
+  
+
+  
+    <subtitle>Jekyll Template for Blogging</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Managing Ghost users</title>
+      <link href="http://localhost:4000/marcia/managing-users/" rel="alternate" type="text/html" title="Managing Ghost users" />
+      <published>2017-09-01T05:26:25+05:00</published>
+      <updated>2017-09-01T05:26:25+05:00</updated>
+      <id>http://localhost:4000/marcia/managing-users</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/managing-users/">&lt;p&gt;Ghost has a number of different user roles for your team&lt;/p&gt;
+
+&lt;h3 id=&quot;authors&quot;&gt;Authors&lt;/h3&gt;
+
+&lt;p&gt;The base user level in Ghost is an author. Authors can write posts, edit their own posts, and publish their own posts. Authors are &lt;strong&gt;trusted&lt;/strong&gt; users. If you don’t trust users to be allowed to publish their own posts, you shouldn’t invite them to Ghost admin.&lt;/p&gt;
+
+&lt;h3 id=&quot;editors&quot;&gt;Editors&lt;/h3&gt;
+
+&lt;p&gt;Editors are the 2nd user level in Ghost. Editors can do everything that an Author can do, but they can also edit and publish the posts of others - as well as their own. Editors can also invite new authors to the site.&lt;/p&gt;
+
+&lt;h3 id=&quot;administrators&quot;&gt;Administrators&lt;/h3&gt;
+
+&lt;p&gt;The top user level in Ghost is Administrator. Again, administrators can do everything that Authors and Editors can do, but they can also edit all site settings and data, not just content. Additionally, administrators have full access to invite, manage or remove any other user of the site.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-owner&quot;&gt;The Owner&lt;/h3&gt;
+
+&lt;p&gt;There is only ever one owner of a Ghost site. The owner is a special user which has all the same permissions as an Administrator, but with two exceptions: The Owner can never be deleted. And in some circumstances the owner will have access to additional special settings if applicable — for example, billing details, if using Ghost(Pro).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;It’s a good idea to ask all of your users to fill out their user profiles, including bio and social links. These will populate rich structured data for posts and generally create more opportunities for themes to fully populate their design.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hatim Disawala</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="lifestyle" />
+      
+        <category term="fashion" />
+      
+
+      
+        <summary type="html">Ghost has a number of different user roles for your team</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/2.jpg" />
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Making your site private</title>
+      <link href="http://localhost:4000/marcia/private-sites/" rel="alternate" type="text/html" title="Making your site private" />
+      <published>2017-09-01T05:26:24+05:00</published>
+      <updated>2017-09-01T05:26:24+05:00</updated>
+      <id>http://localhost:4000/marcia/private-sites</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/private-sites/">&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
+
+&lt;p&gt;If you’ve got a publication that you don’t want the world to see yet because it’s not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase.&lt;/p&gt;
+
+&lt;p&gt;You can toggle this preference on at the bottom of Ghost’s General Settings&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/private.png&quot; alt=&quot;private&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ghost will give you a short, randomly generated pass-phrase which you can share with anyone who needs access to the site while you’re working on it. While this setting is enabled, all search engine optimisation features will be switched off to help keep the site off the radar.&lt;/p&gt;
+
+&lt;p&gt;Do remember though, this is &lt;em&gt;not&lt;/em&gt; secure authentication. You shouldn’t rely on this feature for protecting important private data. It’s just a simple, shared pass-phrase for very basic privacy.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Anna Hedge</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+        <category term="fashion" />
+      
+
+      
+        <summary type="html">Sometimes you might want to put your site behind closed doors</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/3.jpg" />
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator>
+  <link href="http://localhost:4000/marcia/tag/summer/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/marcia/" rel="alternate" type="text/html" />
+  <updated>2018-10-03T10:39:04+05:00</updated>
+  <id>http://localhost:4000/marcia/tag/summer/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Marcia | </title>
+  
+
+  
+    <subtitle>Jekyll Template for Blogging</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">We all wait for summer</title>
+      <link href="http://localhost:4000/marcia/we-all-wait-for-summer/" rel="alternate" type="text/html" title="We all wait for summer" />
+      <published>2018-01-12T00:00:00+05:00</published>
+      <updated>2018-01-12T00:00:00+05:00</updated>
+      <id>http://localhost:4000/marcia/we-all-wait-for-summer</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/we-all-wait-for-summer/">&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
+
+&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>James Cameroon</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tree" />
+      
+        <category term="summer" />
+      
+
+      
+        <summary type="html">As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/16.jpg" />
+      
+    </entry>
+  
+</feed>

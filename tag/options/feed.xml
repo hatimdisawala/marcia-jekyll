@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator>
+  <link href="http://localhost:4000/marcia/tag/options/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/marcia/" rel="alternate" type="text/html" />
+  <updated>2018-10-03T10:39:04+05:00</updated>
+  <id>http://localhost:4000/marcia/tag/options/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Marcia | </title>
+  
+
+  
+    <subtitle>Jekyll Template for Blogging</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Options for creating a new site with Jekyll</title>
+      <link href="http://localhost:4000/marcia/options-for-creating-new-site-with-jekyll/" rel="alternate" type="text/html" title="Options for creating a new site with Jekyll" />
+      <published>2018-01-12T00:00:00+05:00</published>
+      <updated>2018-01-12T00:00:00+05:00</updated>
+      <id>http://localhost:4000/marcia/options-for-creating-new-site-with-jekyll</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/options-for-creating-new-site-with-jekyll/">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new &amp;lt;PATH&amp;gt;&lt;/code&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called &lt;code class=&quot;highlighter-rouge&quot;&gt;myblog&lt;/code&gt;. Here are some additional details:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To install the Jekyll site into the directory you’re currently in, run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; . If the existing directory isn’t empty, you can pass the –force option with jekyll new . –force.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; automatically initiates &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; to install the dependencies required. (If you don’t want Bundler to install the gems, use &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new myblog --skip-bundle&lt;/code&gt;.)&lt;/li&gt;
+  &lt;li&gt;By default, the Jekyll site installed by &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.&lt;/li&gt;
+  &lt;li&gt;We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new myblog --blank&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;To learn about other parameters you can include with &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;, type &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new --help&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>James Cameroon</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="jekyll" />
+      
+        <category term="options" />
+      
+
+      
+        <summary type="html">jekyll new &amp;lt;PATH&amp;gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called myblog. Here are some additional details:</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/12.jpg" />
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator>
+  <link href="http://localhost:4000/marcia/tag/travel/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/marcia/" rel="alternate" type="text/html" />
+  <updated>2018-10-03T10:39:04+05:00</updated>
+  <id>http://localhost:4000/marcia/tag/travel/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Marcia | </title>
+  
+
+  
+    <subtitle>Jekyll Template for Blogging</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">What is Jekyll</title>
+      <link href="http://localhost:4000/marcia/customer-service/" rel="alternate" type="text/html" title="What is Jekyll" />
+      <published>2018-01-11T00:00:00+05:00</published>
+      <updated>2018-01-11T00:00:00+05:00</updated>
+      <id>http://localhost:4000/marcia/customer-service</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/customer-service/">&lt;p&gt;No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML &amp;amp; CSS go in. Static sites come out ready for deployment. Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.&lt;/p&gt;
+
+&lt;p&gt;Sick of dealing with hosting companies? GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free-custom domain name and all.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-jekyll&quot;&gt;What is Jekyll?&lt;/h2&gt;
+
+&lt;p&gt;Jekyll is a simple, blog-aware, static site generator.&lt;/p&gt;
+
+&lt;p&gt;You create your content as text files (Markdown), and organize them into folders. Then, you build the shell of your site using Liquid-enhanced HTML templates. Jekyll automatically stitches the content and templates together, generating a website made entirely of static assets, suitable for uploading to any server.&lt;/p&gt;
+
+&lt;p&gt;Jekyll happens to be the engine behind GitHub Pages, so you can host your project’s Jekyll page/blog/website on GitHub’s servers for free.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>James Cameroon</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+        <category term="music" />
+      
+
+      
+        <summary type="html">No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML &amp;amp; CSS go in. Static sites come out ready for deployment. Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/8.jpg" />
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Welcome to Ghost</title>
+      <link href="http://localhost:4000/marcia/welcome/" rel="alternate" type="text/html" title="Welcome to Ghost" />
+      <published>2017-09-01T05:26:28+05:00</published>
+      <updated>2017-09-01T05:26:28+05:00</updated>
+      <id>http://localhost:4000/marcia/welcome</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/welcome/">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+
+&lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
+
+&lt;h3 id=&quot;there-are-a-few-things-that-you-should-know-up-front&quot;&gt;There are a few things that you should know up-front:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That’s who it works best for. If you’re using Ghost for some other purpose, that’s fine too - but it might not be the best choice for you.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The entire platform can be modified and customized to suit your needs, which is very powerful, but doing so &lt;strong&gt;does&lt;/strong&gt; require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For the best experience we recommend downloading the &lt;a href=&quot;https://ghost.org/downloads/&quot;&gt;Ghost Desktop App&lt;/a&gt; for your computer, which is the best way to access your Ghost site on a desktop device.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our &lt;a href=&quot;https://ghost.org/pricing&quot;&gt;Ghost(Pro)&lt;/a&gt; service, and every penny we make is re-invested into funding further development of free, open source technology for modern journalism.&lt;/p&gt;
+
+&lt;p&gt;The main thing you’ll want to read about next is probably: &lt;a href=&quot;/the-editor/&quot;&gt;the Ghost editor&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Once you’re done reading, you can simply delete the default &lt;strong&gt;Ghost&lt;/strong&gt; user from your team to remove all of these introductory posts!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hatim Disawala</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+
+      
+        <summary type="html">Hey! Welcome to Ghost, it’s great to have you :)</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/7.jpg" />
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Making your site private</title>
+      <link href="http://localhost:4000/marcia/private-sites/" rel="alternate" type="text/html" title="Making your site private" />
+      <published>2017-09-01T05:26:24+05:00</published>
+      <updated>2017-09-01T05:26:24+05:00</updated>
+      <id>http://localhost:4000/marcia/private-sites</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/private-sites/">&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
+
+&lt;p&gt;If you’ve got a publication that you don’t want the world to see yet because it’s not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase.&lt;/p&gt;
+
+&lt;p&gt;You can toggle this preference on at the bottom of Ghost’s General Settings&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/private.png&quot; alt=&quot;private&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ghost will give you a short, randomly generated pass-phrase which you can share with anyone who needs access to the site while you’re working on it. While this setting is enabled, all search engine optimisation features will be switched off to help keep the site off the radar.&lt;/p&gt;
+
+&lt;p&gt;Do remember though, this is &lt;em&gt;not&lt;/em&gt; secure authentication. You shouldn’t rely on this feature for protecting important private data. It’s just a simple, shared pass-phrase for very basic privacy.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Anna Hedge</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+        <category term="fashion" />
+      
+
+      
+        <summary type="html">Sometimes you might want to put your site behind closed doors</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/3.jpg" />
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Setting up your own Ghost theme</title>
+      <link href="http://localhost:4000/marcia/themes/" rel="alternate" type="text/html" title="Setting up your own Ghost theme" />
+      <published>2017-09-01T05:26:22+05:00</published>
+      <updated>2017-09-01T05:26:22+05:00</updated>
+      <id>http://localhost:4000/marcia/themes</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/themes/">&lt;p&gt;Creating a totally custom design for your publication&lt;/p&gt;
+
+&lt;p&gt;Ghost comes with a beautiful default theme called Casper, which is designed to be a clean, readable publication layout and can be easily adapted for most purposes. However, Ghost can also be completely themed to suit your needs. Rather than just giving you a few basic settings which act as a poor proxy for code, we just let you write code.&lt;/p&gt;
+
+&lt;p&gt;There are a huge range of both free and premium pre-built themes which you can get from the &lt;a href=&quot;http://marketplace.ghost.org&quot;&gt;Ghost Theme Marketplace&lt;/a&gt;, or you can simply create your own from scratch.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://marketplace.ghost.org&quot;&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/marketplace.jpg&quot; alt=&quot;marketplace&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Anyone can write a completely custom Ghost theme, with just some solid knowledge of HTML and CSS&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ghost themes are written with a templating language called handlebars, which has a bunch of dynamic helpers to insert your data into template files. Like ``, for example, outputs the name of the current author.&lt;/p&gt;
+
+&lt;p&gt;The best way to learn how to write your own Ghost theme is to have a look at &lt;a href=&quot;https://github.com/TryGhost/Casper&quot;&gt;the source code for Casper&lt;/a&gt;, which is heavily commented and should give you a sense of how everything fits together.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;default.hbs&lt;/code&gt; is the main template file, all contexts will load inside this file unless specifically told to use a different template.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;post.hbs&lt;/code&gt; is the file used in the context of viewing a post.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;index.hbs&lt;/code&gt; is the file used in the context of viewing the home page.&lt;/li&gt;
+  &lt;li&gt;and so on&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We’ve got &lt;a href=&quot;http://themes.ghost.org/docs/about&quot;&gt;full and extensive theme documentation&lt;/a&gt; which outlines every template file, context and helper that you can use.&lt;/p&gt;
+
+&lt;p&gt;If you want to chat with other people making Ghost themes to get any advice or help, there’s also a &lt;strong&gt;#themes&lt;/strong&gt; channel in our &lt;a href=&quot;https://slack.ghost.org&quot;&gt;public Slack community&lt;/a&gt; which we always recommend joining!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>James Cameroon</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+
+      
+        <summary type="html">Creating a totally custom design for your publication</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/5.jpg" />
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator>
+  <link href="http://localhost:4000/marcia/author/anna-hedge/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/marcia/" rel="alternate" type="text/html" />
+  <updated>2018-10-03T10:39:04+05:00</updated>
+  <id>http://localhost:4000/marcia/author/anna-hedge/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Marcia | </title>
+  
+
+  
+    <subtitle>Jekyll Template for Blogging</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Accumulated experience of social living</title>
+      <link href="http://localhost:4000/marcia/acumulated-experience/" rel="alternate" type="text/html" title="Accumulated experience of social living" />
+      <published>2018-06-12T00:00:00+05:00</published>
+      <updated>2018-06-12T00:00:00+05:00</updated>
+      <id>http://localhost:4000/marcia/acumulated-experience</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/acumulated-experience/">&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+
+&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+
+&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+
+&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Anna Hedge</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/13.jpg" />
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Education must also train one for quick, resolute and effective thinking.</title>
+      <link href="http://localhost:4000/marcia/education/" rel="alternate" type="text/html" title="Education must also train one for quick, resolute and effective thinking." />
+      <published>2018-06-12T00:00:00+05:00</published>
+      <updated>2018-06-12T00:00:00+05:00</updated>
+      <id>http://localhost:4000/marcia/education</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/education/">&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
+
+&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+
+&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+
+&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;==highlight==&lt;/li&gt;
+  &lt;li&gt;*escaped characters*&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+
+&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
+    text-decoration: underline;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/marcia/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+
+&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+
+&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+
+&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+
+&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Anna Hedge</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">There are lots of powerful things you can do with the Markdown editor</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/15.jpg" />
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Tree of Codes</title>
+      <link href="http://localhost:4000/marcia/tree-of-codes/" rel="alternate" type="text/html" title="Tree of Codes" />
+      <published>2018-01-12T00:00:00+05:00</published>
+      <updated>2018-01-12T00:00:00+05:00</updated>
+      <id>http://localhost:4000/marcia/tree-of-codes</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/tree-of-codes/">&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+
+&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+
+&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Anna Hedge</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tree" />
+      
+        <category term="codes" />
+      
+
+      
+        <summary type="html">The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/15.jpg" />
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Quick Start Guide</title>
+      <link href="http://localhost:4000/marcia/quick-start-guide/" rel="alternate" type="text/html" title="Quick Start Guide" />
+      <published>2018-01-11T00:00:00+05:00</published>
+      <updated>2018-01-11T00:00:00+05:00</updated>
+      <id>http://localhost:4000/marcia/quick-start-guide</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/quick-start-guide/">&lt;p&gt;If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:&lt;/p&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Install Jekyll and Bundler gems through RubyGems&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;jekyll&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bundler&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Create a new Jekyll site at ./myblog&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;jekyll&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;myblog&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Change into your new directory&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;cd&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;myblog&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Build the site on the preview server&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;bundle&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;exec&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;jekyll&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;serve&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Now browse to http://localhost:4000&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Anna Hedge</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="movies" />
+      
+
+      
+        <summary type="html">If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/9.jpg" />
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Organising your content with tags</title>
+      <link href="http://localhost:4000/marcia/using-tags/" rel="alternate" type="text/html" title="Organising your content with tags" />
+      <published>2017-09-01T05:26:26+05:00</published>
+      <updated>2017-09-01T05:26:26+05:00</updated>
+      <id>http://localhost:4000/marcia/using-tags</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/using-tags/">&lt;p&gt;Ghost has a single, powerful organisational taxonomy, called tags.&lt;/p&gt;
+
+&lt;p&gt;It doesn’t matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-tagging&quot;&gt;Basic tagging&lt;/h2&gt;
+
+&lt;p&gt;When you write a post, you can assign tags to help differentiate between categories of content. For example, you might tag some posts with &lt;code class=&quot;highlighter-rouge&quot;&gt;News&lt;/code&gt; and other posts with &lt;code class=&quot;highlighter-rouge&quot;&gt;Cycling&lt;/code&gt;, which would create two distinct categories of content listed on &lt;code class=&quot;highlighter-rouge&quot;&gt;/tag/news/&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;/tag/cycling/&lt;/code&gt;, respectively.&lt;/p&gt;
+
+&lt;p&gt;If you tag a post with both &lt;code class=&quot;highlighter-rouge&quot;&gt;News&lt;/code&gt; &lt;em&gt;and&lt;/em&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Cycling&lt;/code&gt; - then it appears in both sections.&lt;/p&gt;
+
+&lt;p&gt;Tag archives are like dedicated home-pages for each category of content that you have. They have their own pages, their own RSS feeds, and can support their own cover images and meta data.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-primary-tag&quot;&gt;The primary tag&lt;/h2&gt;
+
+&lt;p&gt;Inside the Ghost editor, you can drag and drop tags into a specific order. The first tag in the list is always given the most importance, and some themes will only display the primary tag (the first tag in the list) by default. So you can add the most important tag which you want to show up in your theme, but also add a bunch of related tags which are less important.&lt;/p&gt;
+
+&lt;p&gt;==&lt;strong&gt;News&lt;/strong&gt;, Cycling, Bart Stevens, Extreme Sports==&lt;/p&gt;
+
+&lt;p&gt;In this example, &lt;strong&gt;News&lt;/strong&gt; is the primary tag which will be displayed by the theme, but the post will also still receive all the other tags, and show up in their respective archives.&lt;/p&gt;
+
+&lt;h2 id=&quot;private-tags&quot;&gt;Private tags&lt;/h2&gt;
+
+&lt;p&gt;Sometimes you may want to assign a post a specific tag, but you don’t necessarily want that tag appearing in the theme or creating an archive page. In Ghost, hashtags are private and can be used for special styling.&lt;/p&gt;
+
+&lt;p&gt;For example, if you sometimes publish posts with video content - you might want your theme to adapt and get rid of the sidebar for these posts, to give more space for an embedded video to fill the screen. In this case, you could use private tags to tell your theme what to do.&lt;/p&gt;
+
+&lt;p&gt;==&lt;strong&gt;News&lt;/strong&gt;, Cycling, #video==&lt;/p&gt;
+
+&lt;p&gt;Here, the theme would assign the post publicly displayed tags of &lt;code class=&quot;highlighter-rouge&quot;&gt;News&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;Cycling&lt;/code&gt; - but it would also keep a private record of the post being tagged with &lt;code class=&quot;highlighter-rouge&quot;&gt;#video&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can find documentation for theme development techniques like this and many more over on Ghost’s extensive &lt;a href=&quot;https://themes.ghost.org/&quot;&gt;theme documentation&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Anna Hedge</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="lifestyle" />
+      
+        <category term="music" />
+      
+        <category term="song" />
+      
+        <category term="listen" />
+      
+
+      
+        <summary type="html">Ghost has a single, powerful organisational taxonomy, called tags.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/6.jpg" />
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Making your site private</title>
+      <link href="http://localhost:4000/marcia/private-sites/" rel="alternate" type="text/html" title="Making your site private" />
+      <published>2017-09-01T05:26:24+05:00</published>
+      <updated>2017-09-01T05:26:24+05:00</updated>
+      <id>http://localhost:4000/marcia/private-sites</id>
+      <content type="html" xml:base="http://localhost:4000/marcia/private-sites/">&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
+
+&lt;p&gt;If you’ve got a publication that you don’t want the world to see yet because it’s not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase.&lt;/p&gt;
+
+&lt;p&gt;You can toggle this preference on at the bottom of Ghost’s General Settings&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/private.png&quot; alt=&quot;private&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ghost will give you a short, randomly generated pass-phrase which you can share with anyone who needs access to the site while you’re working on it. While this setting is enabled, all search engine optimisation features will be switched off to help keep the site off the radar.&lt;/p&gt;
+
+&lt;p&gt;Do remember though, this is &lt;em&gt;not&lt;/em&gt; secure authentication. You shouldn’t rely on this feature for protecting important private data. It’s just a simple, shared pass-phrase for very basic privacy.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Anna Hedge</name>
+        
+          <email>info@hmdthemes.com</email>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="travel" />
+      
+        <category term="fashion" />
+      
+
+      
+        <summary type="html">Sometimes you might want to put your site behind closed doors</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/marcia/uploads/3.jpg" />
+      
+    </entry>
+  
+</feed>

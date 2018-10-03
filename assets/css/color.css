@@ -1,0 +1,103 @@
+/* ------------------------------------------------
+ * Author: Hatim Disawala
+ * URL: http://www.hatimdisawala.com
+ * Template Name: Marcia
+ * Version: 1.1
+ * Color: 28c2e4
+ ----------------------------------------------- */
+a, a:hover,
+.btn-no-fill:hover,
+.btn-no-fill:focus,
+.has-error .form-control, .has-error .form-control:focus,
+.main-nav .navbar-nav > li > a:hover, .main-nav .navbar-nav > li > a:focus, .main-nav .navbar-nav > .open > a, .main-nav .navbar-nav .nav .open > a, .nav .open > a:focus, .nav .open > a:hover, .main-nav .navbar-nav .open .dropdown-menu > li > a:hover, .main-nav .navbar-nav > li > a.dropdown-toggle:focus,
+.main-nav .dropdown-menu a:hover,
+.search .form-control,
+.search button,
+.filter-item li > a:hover,
+.item-project a:hover,
+.project-single .carousel-control.left:hover, .project-single .carousel-control.right:hover,
+.list-checked li:before,
+.share-project a:hover,
+.row-feature:hover h3,
+.plan-item:hover .price,
+.panel-style .panel-heading:hover,
+.panel-style .panel-heading:hover a,
+.post-details > li > a,
+.post-title a:hover,
+.read-more:hover,
+.carousel-control.left:hover, .carousel-control.right:hover,
+.pager .previous a:hover, .pager .next a:hover,
+.pager .digit a:hover, .pager .digit a:focus,
+.pager .active a,
+.post-single .post-footer a:hover,
+.media-heading a:hover,
+.media-footer .reply:hover,
+.sidebar-section a:hover,
+.list-categories > li:hover:before,
+.progress-bar-red,
+.item-contact:hover,
+.item-contact:hover .item-contact-heading,
+.site-footer ul > li:hover,
+.site-footer ul > li:hover:before,
+.site-footer ul > li:hover a,
+.site-footer ul > li.nav-current a,
+.site-footer ul > li.nav-current:before,
+.site-footer a,
+.site-footer ul > li > a:hover,
+.site-footer .has-error .form-control,
+.site-footer .has-error .btn-subscribe,
+.site-footer .style-text-danger {
+	color: #28c2e4;
+}
+.search .form-control::-webkit-input-placeholder {
+	color: #28c2e4;
+}
+.search .form-control::-moz-placeholder {
+	color: #28c2e4;
+}
+.search .form-control:-moz-placeholder {
+	color: #28c2e4;
+}
+.search .form-control:-ms-input-placeholder {
+	color: #28c2e4;
+}
+.site-footer .has-error .form-control::-moz-placeholder {
+	color: #28c2e4;
+}
+.site-footer .has-error .form-control:-ms-input-placeholder {
+	color: #28c2e4;
+}
+.site-footer .has-error .form-control::-webkit-input-placeholder {
+	color: #28c2e4;
+}
+blockquote, blockquote:before,
+.main-nav .dropdown-menu a:hover {
+	border-left-color: #28c2e4;
+}
+.btn:hover,
+.btn-red,
+.btn-blue2,
+.main-nav .navbar-toggle:hover > .icon-bar, .main-nav .navbar-toggle:focus > .icon-bar,
+.section-red,
+.filter-item .active > a, .filter-item .active > a:hover,
+.project-single .carousel-indicators .active,
+.tab-sidebar .active,
+.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span,
+.mfp-close {
+	background-color: #28c2e4;
+}
+.btn:hover,
+.btn-red,
+.btn-no-fill:focus,
+.has-error .form-control, .has-error .form-control:focus,
+.main-nav .navbar-toggle:hover, .main-nav .navbar-toggle:focus,
+.list-socials li > a:hover,
+.search .form-control,
+#search-results,
+.panel-style .panel-heading:hover,
+.pager .previous a:hover, .pager .next a:hover,
+.tab-sidebar .active:before,
+.site-footer .has-error .form-control,
+.site-footer .list-socials li > a:hover {
+	border-color: #28c2e4;
+}
